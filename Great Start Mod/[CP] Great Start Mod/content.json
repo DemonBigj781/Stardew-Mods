@@ -1,0 +1,19 @@
+{
+    "Format": "1.24.0",
+    "ConfigSchema": {
+        "Edibility": {
+            "Default": 50
+        }
+    },
+    "Changes": [
+        {
+            "Action": "EditData",
+            "Target": "Data/ObjectInformation",
+            "Fields": {
+                "454": {
+		    2: "{{Edibility}}",
+                }
+            }
+        }
+    ]
+}

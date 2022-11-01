@@ -1,0 +1,9 @@
+{
+    "Name": "Harvest Block Printer",
+    "Description": "A Mysterious Machine of Unknown Orgin. It Prints out Harvest Blocks on a Quad-Hourly Basis. It is not Craftable however",
+    "Price": 0,
+    "ProvidesLight": false,
+    "ReserveNextIndex": false,
+    "NameLocalization": {},
+    "DescriptionLocalization": {}
+}

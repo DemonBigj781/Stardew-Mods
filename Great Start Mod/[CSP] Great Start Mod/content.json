@@ -1,0 +1,137 @@
+{
+	"Format": "1.23.0",
+	"Changes": [
+		{
+			"Action": "EditData",
+			"Target": "aedenthorn.CustomStarterPackage/dictionary",
+			"Entries": {
+				"DemonBigj781.GreatStartCSP/AncientFruit": {
+					"NameOrIndex": "454",
+					"Type": "Object",
+					"MinAmount": 999,
+					"MaxAmount": 999,
+					"ChancePercent": 100,
+					"MinQuality": 4,
+					"MaxQuality": 4
+				},
+				"DemonBigj781.GreatStartCSP/IriduimAxe": {
+					"NameOrIndex": "4",
+					"Type": "Axe",
+					"MinAmount": 1,
+					"MaxAmount": 1,
+					"ChancePercent": 100,
+					"MinQuality": 0,
+					"MaxQuality": 0
+				},
+				"DemonBigj781.GreatStartCSP/IriduimHoe": {
+					"NameOrIndex": "4",
+					"Type": "Hoe",
+					"MinAmount": 1,
+					"MaxAmount": 1,
+					"ChancePercent": 100,
+					"MinQuality": 0,
+					"MaxQuality": 0
+				},
+				"DemonBigj781.GreatStartCSP/IriduimPickax": {
+					"NameOrIndex": "4",
+					"Type": "Pickaxe",
+					"MinAmount": 1,
+					"MaxAmount": 1,
+					"ChancePercent": 100,
+					"MinQuality": 0,
+					"MaxQuality": 0
+				},
+				"DemonBigj781.GreatStartCSP/IriduimWateringcan": {
+					"NameOrIndex": "4",
+					"Type": "WateringCan",
+					"MinAmount": 1,
+					"MaxAmount": 1,
+					"ChancePercent": 100,
+					"MinQuality": 0,
+					"MaxQuality": 0
+				},
+				"DemonBigj781.GreatStartCSP/AncientFruitSeeds": {
+					"NameOrIndex": "499",
+					"Type": "Object",
+					"MinAmount": 999,
+					"MaxAmount": 999,
+					"ChancePercent": 100,
+					"MinQuality": 4,
+					"MaxQuality": 4
+				},
+				"Dspacechase0.JsonAssets/ObjectId:CoffieBlockPrinter": {
+					"NameOrIndex": "Coffie Block Printer",
+					"Type": "BigCraftable",
+					"MinAmount": 1,
+					"MaxAmount": 1,
+					"ChancePercent": 100,
+					"MinQuality": 0,
+					"MaxQuality": 0
+				},
+				"spacechase0.JsonAssets/ObjectId:HarvestBlockPrinter": {
+					"NameOrIndex": "Harvest Block Printer",
+					"Type": "BigCraftable",
+					"MinAmount": 1,
+					"MaxAmount": 1,
+					"ChancePercent": 100,
+					"MinQuality": 0,
+					"MaxQuality": 0
+				},
+				"spacechase0.JsonAssets/ObjectId:NutrentBlockPrinter": {
+					"NameOrIndex": "Nutrent Block Printer",
+					"Type": "BigCraftable",
+					"MinAmount": 1,
+					"MaxAmount": 1,
+					"ChancePercent": 100,
+					"MinQuality": 0,
+					"MaxQuality": 0
+				},
+				"spacechase0.JsonAssets/ObjectId:Sinc": {
+					"NameOrIndex": "Sinc",
+					"Type": "BigCraftable",
+					"MinAmount": 1,
+					"MaxAmount": 1,
+					"ChancePercent": 100,
+					"MinQuality": 0,
+					"MaxQuality": 0
+				},
+				"DemonBigj781.GreatStartCSP/MixedSeeds": {
+					"NameOrIndex": "770",
+					"Type": "Object",
+					"MinAmount": 999,
+					"MaxAmount": 999,
+					"ChancePercent": 100,
+					"MinQuality": 4,
+					"MaxQuality": 4
+				},
+				"spacechase0.JsonAssets/ObjectId:NutrentBlocks": {
+					"NameOrIndex": "Nutrent Block",
+					"Type": "Object",
+					"MinAmount": 100,
+					"MaxAmount": 100,
+					"ChancePercent": 100,
+					"MinQuality": 4,
+					"MaxQuality": 4
+				},
+				"spacechase0.JsonAssets/ObjectId:NutrentBlock": {
+					"NameOrIndex": "Nutrent Block",
+					"Type": "Object",
+					"MinAmount": 100,
+					"MaxAmount": 100,
+					"ChancePercent": 100,
+					"MinQuality": 4,
+					"MaxQuality": 4
+				},
+				"spacechase0.JsonAssets/ObjectId:CanofWater": {
+					"NameOrIndex": "Can of Water",
+					"Type": "Object",
+					"MinAmount": 100,
+					"MaxAmount": 100,
+					"ChancePercent": 100,
+					"MinQuality": 4,
+					"MaxQuality": 4
+				}
+			}
+		}
+	]
+}

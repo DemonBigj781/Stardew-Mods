@@ -1,0 +1,18 @@
+{
+	"Name": "[JA] Great Start Mod",
+	"Author": "DemonBigj781",
+	"Version": "0.1.0",
+	"Description": "Introduces a head Start with verry little grind to get started with a new save.",
+	"UniqueID": "DemonBigj781.GreatStartJA",
+	"UpdateKeys": [
+		"Nexus:????"
+	],
+	"ContentPackFor": {
+		"UniqueID": "spacechase0.JsonAssets"
+	},
+	"Dependencies": [
+		{
+			"UniqueID": "spacechase0.JsonAssets"
+		}
+	]
+}
