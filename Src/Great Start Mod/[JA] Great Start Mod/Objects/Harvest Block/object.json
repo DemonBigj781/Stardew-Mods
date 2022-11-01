@@ -1,0 +1,22 @@
+{
+	"Name": "Harvest Block",
+	"Description": "A Block of Herb Extract. It has an odd effect to give a better yeald. Its taffy like and has a herb like taste. However, is not that noticable though.",
+	"Category": "Cooking",
+	"Edibility": 1,
+	"EdibleIsDrink": false,
+	"EdibleBuffs": {
+		"Farming": 10,
+		"Fishing": 10,
+		"Mining": 10,
+		"Luck": 0,
+		"Foraging": 10,
+		"MaxStamina": 0,
+		"MagnetRadius": 500,
+		"Speed": 0,
+		"Defense": 0,
+		"Attack": 0,
+		"Duration": 30
+	},
+	"Price": 100,
+	"IsColored": false
+}

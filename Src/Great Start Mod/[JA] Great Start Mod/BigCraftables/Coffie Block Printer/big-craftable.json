@@ -1,0 +1,9 @@
+{
+    "Name": "Coffie Block Printer",
+    "Description": "A Mysterious Machine of Unknown Orgin. It Prints out Coffie Blocks on a Daily Basis. It is not Craftable however",
+    "Price": 0,
+    "ProvidesLight": false,
+    "ReserveNextIndex": false,
+    "NameLocalization": {},
+    "DescriptionLocalization": {}
+}

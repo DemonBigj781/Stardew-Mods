@@ -1,0 +1,21 @@
+{
+	"Name": "[PFM] Great Start Mod",
+	"Author": "DemonBigj781",
+	"Version": "0.1.0",
+	"Description": "Introduces a head Start with verry little grind to get started with a new save.",
+	"UniqueID": "DemonBigj781.GreatStartPFM",
+	"UpdateKeys": [
+		"Nexus:????"
+	],
+	"ContentPackFor": {
+		"UniqueID": "DIGUS.ProducerFrameworkMod"
+	},
+	"Dependencies": [
+		{
+			"UniqueID": "DemonBigj781.GreatStartJA"
+		},
+		{
+			"UniqueID": "DIGUS.ProducerFrameworkMod"
+		}
+	]
+}

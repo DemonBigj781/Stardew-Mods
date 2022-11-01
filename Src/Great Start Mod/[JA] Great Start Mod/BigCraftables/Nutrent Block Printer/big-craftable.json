@@ -1,0 +1,9 @@
+{
+    "Name": "Nutrent Block Printer",
+    "Description": "A Mysterious Machine of Unknown Orgin. It Prints out Nutrent Blocks on a Daily. It is not Craftable however",
+    "Price": 0,
+    "ProvidesLight": false,
+    "ReserveNextIndex": false,
+    "NameLocalization": {},
+    "DescriptionLocalization": {}
+}

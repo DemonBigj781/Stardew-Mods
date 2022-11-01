@@ -1,0 +1,9 @@
+{
+    "Name": "Sinc",
+    "Description": "Its a strange sink. It spits out a stange cup of water on an hourly basis. this strange model of sink is not Craftable however",
+    "Price": 0,
+    "ProvidesLight": false,
+    "ReserveNextIndex": false,
+    "NameLocalization": {},
+    "DescriptionLocalization": {}
+}
