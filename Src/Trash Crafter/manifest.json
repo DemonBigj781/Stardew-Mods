@@ -1,0 +1,11 @@
+{
+  "Name": "Trash Crafter",
+  "Author": "DemonBigj781",
+  "Version": "1.0.0",
+  "Description": "Cook Trash and other junk with just wood.",
+  "UniqueID": "DemonBigj781.TrashCrafterCP",
+  "UpdateKeys": [ "Nexus:????" ],
+  "ContentPackFor": {
+    "UniqueID": "Pathoschild.ContentPatcher"
+  }
+}

@@ -1,0 +1,61 @@
+{
+	"Format": "1.19.0",
+	"Changes": [
+		{
+			"Action": "EditData",
+			"Target": "Data/CraftingRecipes",
+			"Entries": {
+				"Trash": "388 1/Home/168 1/false/Farming 1"
+			}
+		},
+		{
+			"Action": "EditData",
+			"Target": "Data/CraftingRecipes",
+			"Entries": {
+				"Driftwood": "388 1/Home/169 1/false/Farming 1"
+			}
+		},
+		{
+			"Action": "EditData",
+			"Target": "Data/CraftingRecipes",
+			"Entries": {
+				"Broken Glasses": "388 1/Home/170 1/false/Farming 1"
+			}
+		},
+		{
+			"Action": "EditData",
+			"Target": "Data/CraftingRecipes",
+			"Entries": {
+				"Broken CD": "388 1/Home/171 1/false/Farming 1"
+			}
+		},
+		{
+			"Action": "EditData",
+			"Target": "Data/CraftingRecipes",
+			"Entries": {
+				"Soggy Newspaper": "388 1/Home/172 1/false/Farming 1"
+			}
+		},
+		{
+			"Action": "EditData",
+			"Target": "Data/CraftingRecipes",
+			"Entries": {
+				"Glass Shards": "388 1/Home/118 1/false/Farming 1"
+			}
+		},
+		{
+			"Action": "EditData",
+			"Target": "Data/CraftingRecipes",
+			"Entries": {
+				"Joja Cola": "388 1/Home/167 1/false/Farming 1"
+			}
+		},
+		{
+			"Action": "EditData",
+			"Target": "Data/CraftingRecipes",
+			"Entries": {
+				"Fiber": "388 1/Home/771 1/false/Farming 1"
+			}
+		}
+	]
+}
